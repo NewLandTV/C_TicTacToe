@@ -2,6 +2,8 @@
 
 The **Tic Tac Toe** game with C.
 
+[![C언어로 틱택토 게임 만들기](https://img.youtube.com/vi/5oWOpeV7m30/0.jpg)](https://www.youtube.com/watch?v=5oWOpeV7m30)
+
 # **Links(링크)**
 
 * [JkhTV YouTube(장경혁tv)](https://www.youtube.com/channel/UC0lR1aYGgOhFioC3IsazUtw)
